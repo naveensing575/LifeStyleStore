@@ -6,4 +6,6 @@ people. Further, the user can also add bills under the given budget and track he
 expenses accordingly. This website would be built using HTML, CSS, Bootstrap, MySQL,
 and PHP.
 
-#Lifestyle store 🏪
+#Lifestyle store🏪
+
+#NOTE: Backend not connected yet. 
